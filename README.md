@@ -12,5 +12,5 @@ example input for image_fl.py:
 
 example output from image_fl.py: 
 
-<img src="https://github.com/athiyadeviyani/FacialLandmarks/blob/master/image_fl_demo.jpg?raw=true" height="400" width="650">
+<img src="https://github.com/athiyadeviyani/FacialLandmarks/blob/master/image_fl_demo.jpg?raw=true" height="420" width="650">
 
